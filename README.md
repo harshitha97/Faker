@@ -1,7 +1,7 @@
-Generates fake user data using the Faker library from python\
+Generates fake user data using the Faker library from python<br/>
 
-Install with pip:\
-pip install Faker\
+Install with pip:<br/>
+pip install Faker<br/>
 
-Import:\
-from faker import Faker\
+Import:<br/>
+from faker import Faker<br/>
